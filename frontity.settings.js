@@ -18,20 +18,20 @@ const settings = {
               "/"
             ],
             [
-              "Nature",
-              "/category/nature/"
+              "Development",
+              "/category/development/"
             ],
             [
-              "Travel",
-              "/category/travel/"
+              "Research",
+              "/research/"
             ],
             [
-              "Japan",
-              "/tag/japan/"
+              "Blog",
+              "/category/blog/"
             ],
             [
-              "About Us",
-              "/about-us/"
+              "About",
+              "/about/"
             ]
           ],
           "featured": {
@@ -45,7 +45,7 @@ const settings = {
       "name": "@frontity/wp-source",
       "state": {
         "source": {
-          "url": "https://test.frontity.org"
+          "url": "https://jhaighfrontity.wpengine.com"
         }
       }
     },
