@@ -4,7 +4,7 @@
 
 If a frontity project doesn't exist locally, follow the Frontity set up guide here: [https://docs.frontity.org/getting-started/quick-start-guide](https://docs.frontity.org/getting-started/quick-start-guide)
 
-By default, this will pull content from `[https://test.frontity.org](https://test.frontity.org)` , to add your CMS, you'll have to edit the section at the bottom of `frontity.settings.js`:
+By default, this will pull content from [https://test.frontity.org](https://test.frontity.org) , to add your CMS, you'll have to edit the section at the bottom of `frontity.settings.js`:
 
 ```jsx
 const settings = {
